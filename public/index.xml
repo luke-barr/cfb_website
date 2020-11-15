@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Luke Barr Sports</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Luke Barr Sports</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -18,21 +18,21 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
       <title>Lorem Ipsum</title>
       <link>/2015/01/01/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>College Football Model</title>
+      <link>/cfb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfb/</guid>
+      <description>.tag {display: inline-block;padding: 2px 12px;border-radius: 15px;font-weight: 600;font-size: 12px;}.good {background: hsl(116, 60%, 90%);color: hsl(116, 30%, 25%);}.bad {background: hsl(350, 70%, 90%);color: hsl(350, 45%, 30%);}.main-container {max-width: 1500px;margin-left: auto;margin-right: auto;}Team Rankings{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;all_rank&#34;:[63,121,4,20,112,97,67,82,32,41,72,100,24,60,126,25,1,116,19,71,2,10,9,40,81,87,113,105,11,28,120,107,52,30,45,68,102,61,51,99,13,43,31,125,59,39,73,18,17,123,57,91,80,8,56,49,21,77,79,96,101,86,83,78,95,50,65,35,115,29,109,89,12,6,70,3,27,26,75,7,103,92,62,48,85,98,38,14,37,84,93,110,118,111,108,66,114,94,33,16,106,88,69,58,55,36,53,34,76,124,117,22,119,104,54,122,64,47,44,15,42,90,23,46,5,74],&#34;school&#34;:[&#34;Air Force&#34;,&#34;Akron&#34;,&#34;Alabama&#34;,&#34;Appalachian State&#34;,&#34;Arizona&#34;,&#34;Arizona State&#34;,&#34;Arkansas&#34;,&#34;Arkansas State&#34;,&#34;Army&#34;,&#34;Auburn&#34;,&#34;Ball State&#34;,&#34;Baylor&#34;,&#34;Boise State&#34;,&#34;Boston College&#34;,&#34;Bowling Green&#34;,&#34;Buffalo&#34;,&#34;BYU&#34;,&#34;California&#34;,&#34;Central Michigan&#34;,&#34;Charlotte&#34;,&#34;Cincinnati&#34;,&#34;Clemson&#34;,&#34;Coastal Carolina&#34;,&#34;Colorado&#34;,&#34;Colorado State&#34;,&#34;Duke&#34;,&#34;East Carolina&#34;,&#34;Eastern Michigan&#34;</description>
     </item>
     
   </channel>
